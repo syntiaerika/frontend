@@ -1,0 +1,55 @@
+
+.container {
+    font-family: Arial, sans-serif;
+  }
+  
+  .title {
+    color: #333;
+    text-align: center;
+  }
+  
+  .list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .listItem {
+    background-color: #f4f4f4;
+    margin: 8px 0;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  }
+  
+  .listItem p {
+    margin: 5px 0;
+  }
+  
+  .button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 8px 16px;
+    border-radius: 5px;
+    cursor: pointer;
+    outline: none;
+  }
+  
+  .button:hover {
+    background-color: #0056b3;
+  }
+  
+  .linkButton {
+    display: inline-block;
+    background-color: #28a745;
+    color: white;
+    text-decoration: none;
+    padding: 8px 16px;
+    border-radius: 5px;
+    text-align: center;
+  }
+  
+  .linkButton:hover {
+    background-color: #1c7430;
+  }
+  
